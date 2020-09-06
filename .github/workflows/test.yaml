@@ -9,6 +9,7 @@ on:
     branches:
       - master
       - 3.x
+      - mnual_merge_plus_fixes
   pull_request:
 
 jobs:
